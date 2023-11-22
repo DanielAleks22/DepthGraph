@@ -33,7 +33,6 @@ reduire: $(EXEC_REDUIRE)
 	./01_reduire
 	./02_reduire
 	./03_reduire complete complete_reduction
-	./04_reduire complete complete_reduction_sg
 
 full: digraph reduire
 
